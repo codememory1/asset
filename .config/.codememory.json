@@ -1,0 +1,18 @@
+{
+  "caching": {
+    "fileConfig": "configs\/caching"
+  },
+  "configuration": {
+    "pathWithConfigs": "configs",
+    "useCache": true
+  },
+  "environment": {
+    "pathWithFile": null,
+    "filename": ".env",
+    "defaultAppMode": "dev",
+    "useCache": false
+  },
+  "asset": {
+    "configName": "asset"
+  }
+}
